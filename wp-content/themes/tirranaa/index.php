@@ -9,7 +9,7 @@
 
   gtag('config', 'G-WEPLBRVP59');
 </script>
-  <body data-home-page="http://tirranaa.github.io.dev.cc/T/" data-home-page-title="Ivaylo Yordanov" class="u-black u-body">  
+  <body data-home-page="http://tirranaa.github.dev.cc/T/" data-home-page-title="Ivaylo Yordanov" class="u-black u-body">  
 	  
 <span id="wts2054327"></span>
 <script>
@@ -50,7 +50,7 @@ div#google_translate_element div.goog-te-gadget-simple{background-color:black;}
             </a>
           </div>
           <div class="u-custom-menu u-nav-container">
-            <ul class="u-nav u-unstyled"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="https://tirranaa.github.io.dev.cc">Ivaylo Yordanov</a>
+            <ul class="u-nav u-unstyled"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="https://tirranaa.github.io">Ivaylo Yordanov</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="VideoGamesFun">VideoGamesandFun</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="my-skills">Skills</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="https://tirranaa.wixsite.com/ivailoyordanov">INVITED</a>
@@ -62,7 +62,7 @@ div#google_translate_element div.goog-te-gadget-simple{background-color:black;}
               <div class="u-sidenav-overflow">
                 <div class="u-menu-close"></div>
                 <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2">
-		<li class="u-nav-item"><a class="u-button-style u-nav-link" href="https://tirranaa.github.io.dev.cc">Ivaylo Yordanov</a>
+		<li class="u-nav-item"><a class="u-button-style u-nav-link" href="https://tirranaa.github.io">Ivaylo Yordanov</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="VideoGamesFun">VideoGamesandFun</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="my-skills">Skills</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="https://tirranaa.wixsite.com/ivailoyordanov">INVITED</a>

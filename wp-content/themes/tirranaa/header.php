@@ -9,15 +9,15 @@
 <meta name="page_type" content="np-template-header-footer-from-plugin">
 <meta name="description" content="Ivaylo Yordanov, about me, list of my skills and contact information.">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://tirranaa.github.io.dev.cc/index.html">
+<meta property="og:url" content="https://tirranaa.github.dev.cc/index.html">
 <meta property="og:title" content="Ivaylo Yordanov">
 <meta property="og:description" content="Ivaylo Yordanov, about me, list of my skills and contact information.">
-<meta property="og:image" content="https://tirranaa.github.io.dev.cc/images/VideoGamesFunn.jpg">
+<meta property="og:image" content="https://tirranaa.github.dev.cc/images/VideoGamesFunn.jpg">
 <meta property="twitter:card" content="summary_large_image">
-<meta property="twitter:url" content="https://tirranaa.github.io.dev.cc/index.html">
+<meta property="twitter:url" content="https://tirranaa.github.dev.cc/index.html">
 <meta property="twitter:title" content="Ivaylo Yordanov">
 <meta property="twitter:description" content="Ivaylo Yordanov, about me, list of my skills and contact information.">
-<meta property="twitter:image" content="https://tirranaa.github.io.dev.cc/images/VideoGamesFunn.jpg">
+<meta property="twitter:image" content="https://tirranaa.github.dev.cc/images/VideoGamesFunn.jpg">
 <link rel="stylesheet" href="<?php echo get_template_directory_uri().'/css/style.css'; ?>" type="text/css" media="screen">
 <script src="<?php echo get_template_directory_uri().'/js/jquery-1.9.1.min.js'; ?>" type="text/javascript"></script>
 <script src="<?php echo get_template_directory_uri().'/js/general.js'; ?>" type="text/javascript"></script>
