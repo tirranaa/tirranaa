@@ -1,5 +1,5 @@
 ## tirranaa
-### Ready for instal dynamic wordpress site with my Theme and plugins preinstalled.
+### Ready for instal dynamic wordpress site with my theme and plugins preinstalled.
 - Dependencies - PHP + MySQL.
 The host need to be PHP capable. 
 MySQL database table, must be called as the name of your site root directory. 
